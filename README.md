@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CPP, DSA and Mern**
 
-- 📫 How to reach me **ak8285345@gmaul.com**
+- 📫 How to reach me **ak8285345@gmail.com**
 
 - ⚡ Fun fact **I am a Gamer🎮**
 
