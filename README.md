@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.webp?cid=ecf05e477mtr1cje7j7z24amdy0f1wkunp2wrn67yd8j8kax&ep=v1_gifs_search&rid=giphy.webp&ct=g)](https://amit-O5.io )
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://amit-O5.io)
 <h1 align="center">Hi 👋, I'm Amit khatua</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"
